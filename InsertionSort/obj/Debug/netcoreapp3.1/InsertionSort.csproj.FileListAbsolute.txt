@@ -1,0 +1,11 @@
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csprojAssemblyReference.cache
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\bijaya_kumar_samanta\source\Test\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
